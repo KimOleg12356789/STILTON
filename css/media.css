@@ -406,7 +406,7 @@
     text-align: center;
     margin: 0px 0 0 0;
     border-radius: 18px;
-    padding: 43px 0 7px 25px;
+    padding: 43px 0 17px 0;
     line-height: 19px;
 }
 
@@ -467,16 +467,20 @@
 	background: #3d051b;
 }
 
+.cheese-block span {
+	color: #f7eabd !important;
+}
+
 .cheese-block {
     background: #3d051b;
-    padding: 20px 0 20px 15px;
+    padding: 1px 0 20px 15px;
     text-align: left;
 }
 
 .story-block span {
     font-size: 20px;
-    line-height: 62px;
-    margin: 0px 0 0 0;
+    line-height: 25px;
+    margin: 23px 0 0 0;
     display: block;
     color: #3d051b;
     font-family: 'Helvetica';
